@@ -14,4 +14,4 @@ In this activity we start with a code, which we have to modify to make the requi
 
 ## Page Link 
 
-![Page link]()
+![Page link](https://davidtrujillor.github.io/Horiseon/)
