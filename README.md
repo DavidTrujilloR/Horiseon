@@ -6,11 +6,11 @@ In this activity we start with a code, which we have to modify to make the requi
 
 ## Screenshots
 
-![Screenshot of the final result of the page](./Assets/imagen%201.png)
+![Screenshot of the final result of the page](./assets/imagen%201.png)
 
-![Screenshot](./Assets/imagen%202.png)
+![Screenshot](./assets/imagen%202.png)
 
-![Screenshot](./Assets/imagen%203.png)
+![Screenshot](./assets/imagen%203.png)
 
 ## Page Link 
 
